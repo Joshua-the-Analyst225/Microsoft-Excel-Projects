@@ -15,7 +15,7 @@ The spreadsheet included in this file was developed for my club organization dur
 
 ![Members record](https://github.com/user-attachments/assets/f5ab47cb-c997-4cc5-b7b0-9bb14544c9a4)  
 
-This table is a sample of more than 100 students, from 1st year students to 4th year students. This table is composed of the club shirt sizes and payment status of for each contribution type, with this, it is easier to monitor if the student has paid or not and if they are on officer who is exempted from paying. Data collection was done by each year level representative while I do the data entry to the spreadsheet to ensure reflection of payment status and actual collected payment  
+This table is a sample of more than 100 students, from 1st year students to 4th year students. For the purpose of security of data with respect to the members' information, I removed their first name and middle name. This table is composed of the club shirt sizes and payment status of for each contribution type, with this, it is easier to monitor if the student has paid or not and if they are on officer who is exempted from paying. Data collection was done by each year level representative while I do the data entry to the spreadsheet to ensure reflection of payment status and actual collected payment  
 
 ### Collection Summary ###  
 
