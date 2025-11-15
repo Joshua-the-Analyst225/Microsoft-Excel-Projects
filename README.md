@@ -2,8 +2,8 @@
 
       
 ## Thesis_Analysis_of_Variance ##  
-![Thesis Analysis of Variance Dashboard](https://github.com/user-attachments/assets/4c656def-72a5-4b4d-830b-feec0d00bf4f)  
-
+![Thesis Analysis of Variance Dashboard](https://github.com/user-attachments/assets/0e1bf673-f67d-4bbe-962d-8b6cad0e301e)  
+  
 ## Powerplant Engineering Design Dashboard ##  
 ![Powerplant and Distribution Design Dashboard](https://github.com/user-attachments/assets/5993107d-d738-49b8-a652-6f7f4ed699e5)  
 
